@@ -8,6 +8,6 @@ package friday2025;
  *
  * @author Henil Patel
  */
-public class Java {
+public class Demo {
     
 }
