@@ -14,9 +14,12 @@ public class Friday2025 {
      * @param args the command line arguments
      */
     //showing pull
+    //fetch and merge
     public static void main(String[] args) {
        System.out.println("Hi");
     //showing other commit
+        //making a change
+        //fetching and merging
     }
     
 }
